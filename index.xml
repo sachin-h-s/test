@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on SACHIN H S</title>
+    <link>https://github.com/sachin-h-s/test/</link>
+    <description>Recent content in Data Science Portfolio on SACHIN H S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Aug 2021 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/sachin-h-s/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project : Salary Estimator</title>
+      <link>https://github.com/sachin-h-s/test/post/project-3/</link>
+      <pubDate>Sat, 21 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-3/</guid>
+      <description>This is not a real world dataset, just to showcase the relationship between differnt features here i have used Multiple linear regression to predict the salary.    Link to streamlit webapp</description>
+    </item>
+    
+    <item>
+      <title>Project :Bank Note Authenticator</title>
+      <link>https://github.com/sachin-h-s/test/post/project-1/</link>
+      <pubDate>Thu, 19 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-1/</guid>
+      <description>Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. A Wavelet Transform tool was used to extract features from these images. Built a client facing API using flask and deployed in heroku    Link to heroku webapp</description>
+    </item>
+    
+    <item>
+      <title>Project : Predicting Diabetes</title>
+      <link>https://github.com/sachin-h-s/test/post/project-2/</link>
+      <pubDate>Wed, 18 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-2/</guid>
+      <description>The data was collected and made available by “National Institute of Diabetes and Digestive and Kidney Diseases” as part of the Pima Indians Diabetes Database.
+Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here belong to the Pima Indian heritage (subgroup of Native Americans), and are females of ages 21 and above.
+  Link to heroku webapp</description>
+    </item>
+    
+    <item>
+      <title>Project :Exploratory data Analysis Application.</title>
+      <link>https://github.com/sachin-h-s/test/post/project-4/</link>
+      <pubDate>Tue, 10 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-4/</guid>
+      <description>Perform Exploratory data Analysis with Pandas Profiling Library
+  Link to heroku webapp</description>
+    </item>
+    
+    <item>
+      <title>Project :LET&#39;S PREDICT YOUR MARKS.</title>
+      <link>https://github.com/sachin-h-s/test/post/project-5/</link>
+      <pubDate>Thu, 01 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-5/</guid>
+      <description>I assumed there is a linear relationship between number of hours studied and the marks obtained,so I have used linear-regression model to predict the marks obtained based on number of hours studied.
+  Link to heroku webapp</description>
+    </item>
+    
+    <item>
+      <title>Project :IRIS</title>
+      <link>https://github.com/sachin-h-s/test/post/project-7/</link>
+      <pubDate>Tue, 22 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-7/</guid>
+      <description>The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. This dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines    Link to heroku webapp</description>
+    </item>
+    
+    <item>
+      <title>Project :Bag Classifier</title>
+      <link>https://github.com/sachin-h-s/test/post/project-6/</link>
+      <pubDate>Sat, 05 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/post/project-6/</guid>
+      <description>The dataset conataines a labeled images of 5 different classes,using a pretrained mobilenet_v2 model,trying to predict the right class of the given input bag image.
+  Link to streamlit webapp</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/sachin-h-s/test/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/sachin-h-s/test/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn : https://www.linkedin.com/in/sachinhs04   Website : https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO/   GitHub : https://github.com/SACHINHS04   Twitter : https://twitter.com/Sachinhs2    </description>
+    </item>
+    
+  </channel>
+</rss>
